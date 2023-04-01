@@ -19,6 +19,9 @@ MIT
 @angular/router
 MIT
 
+@angular/service-worker
+MIT
+
 @ng-bootstrap/ng-bootstrap
 MIT
 The MIT License (MIT)
@@ -342,6 +345,8 @@ Apache-2.0
  limitations under the License.
  
 
+
+speech-synthesis-text-to-speech
 
 tslib
 0BSD
